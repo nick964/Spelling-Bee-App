@@ -1,0 +1,10 @@
+{
+  "/words": {
+    "target": "https://wordsapiv1.p.mashape.com",
+    "secure": true,
+    "pathRewrite": {
+      "^/words": ""
+    },
+    "changeOrigin": true
+  }
+}

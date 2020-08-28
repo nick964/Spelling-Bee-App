@@ -1,0 +1,511 @@
+[
+  {
+    "meta": {
+      "id": "forecast:1",
+      "uuid": "cb70418e-4b0b-4470-b1f9-69a74cb61dc4",
+      "sort": "062556000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "forecast",
+        "forecastable",
+        "forecasted",
+        "forecaster",
+        "forecasters",
+        "forecasting",
+        "forecasts"
+      ],
+      "offensive": false
+    },
+    "hom": 1,
+    "hwi": {
+      "hw": "fore*cast",
+      "prs": [
+        {
+          "mw": "ˈfȯr-ˌkast",
+          "pun": ";",
+          "sound": {
+            "audio": "foreca02",
+            "ref": "c",
+            "stat": "1"
+          }
+        },
+        {
+          "mw": "fȯr-ˈkast"
+        }
+      ]
+    },
+    "fl": "verb",
+    "ins": [
+      {
+        "if": "forecast"
+      },
+      {
+        "il": "also",
+        "if": "fore*cast*ed"
+      },
+      {
+        "if": "fore*cast*ing"
+      }
+    ],
+    "def": [
+      {
+        "vd": "transitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1 a",
+                "dt": [[
+   {
+      "meta":{
+         "id":"epithet",
+         "uuid":"0504725c-b227-4fcd-9865-83691fc37e2e",
+         "sort":"050177800",
+         "src":"collegiate",
+         "section":"alpha",
+         "stems":[
+            "epithet",
+            "epithetic",
+            "epithetical",
+            "epithets"
+         ],
+         "offensive":false
+      },
+      "hwi":{
+         "hw":"ep*i*thet",
+         "prs":[
+            {
+               "mw":"\u02c8e-p\u0259-\u02ccthet",
+               "sound":{
+                  "audio":"epithe11",
+                  "ref":"c",
+                  "stat":"1"
+               }
+            },
+            {
+               "l":"also",
+               "mw":"-th\u0259t"
+            }
+         ]
+      },
+      "fl":"noun",
+      "def":[
+         {
+            "sseq":[
+               [
+                  [
+                     "sense",
+                     {
+                        "sn":"1 a",
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}a characterizing word or phrase accompanying or occurring in place of the name of a person or thing"
+                           ]
+                        ]
+                     }
+                  ],
+                  [
+                     "sense",
+                     {
+                        "sn":"b",
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}a disparaging or abusive word or phrase"
+                           ]
+                        ]
+                     }
+                  ],
+                  [
+                     "sense",
+                     {
+                        "sn":"c",
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}the part of a taxonomic name identifying a subordinate unit within a genus"
+                           ]
+                        ]
+                     }
+                  ]
+               ],
+               [
+                  [
+                     "sense",
+                     {
+                        "sn":"2",
+                        "sls":[
+                           "obsolete"
+                        ],
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}{sx|expression||}"
+                           ]
+                        ]
+                     }
+                  ]
+               ]
+            ]
+         }
+      ],
+      "uros":[
+         {
+            "ure":"ep*i*thet*ic",
+            "prs":[
+               {
+                  "mw":"\u02cce-p\u0259-\u02c8the-tik",
+                  "sound":{
+                     "audio":"epithe12",
+                     "ref":"c",
+                     "stat":"1"
+                  }
+               }
+            ],
+            "vrs":[
+               {
+                  "vl":"or",
+                  "va":"ep*i*thet*i*cal",
+                  "prs":[
+                     {
+                        "mw":"\u02cce-p\u0259-\u02c8the-ti-k\u0259l",
+                        "sound":{
+                           "audio":"epithe13",
+                           "ref":"c",
+                           "stat":"1"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "fl":"adjective"
+         }
+      ],
+      "et":[
+         [
+            "text",
+            "Latin {it}epitheton{\/it}, from Greek, from neuter of {it}epithetos{\/it} added, from {it}epitithenai{\/it} to put on, add, from {it}epi-{\/it} + {it}tithenai{\/it} to put {ma}{mat|do|}{\/ma}"
+         ]
+      ],
+      "date":"1579{ds||1|a|}",
+      "shortdef":[
+         "a characterizing word or phrase accompanying or occurring in place of the name of a person or thing",
+         "a disparaging or abusive word or phrase",
+         "the part of a taxonomic name identifying a subordinate unit within a genus"
+      ]
+   },
+   {
+      "meta":{
+         "id":"specific epithet",
+         "uuid":"182ba1d2-2a16-49b2-9e87-326b8836aa31",
+         "sort":"194643300",
+         "src":"collegiate",
+         "section":"alpha",
+         "stems":[
+            "specific epithet",
+            "specific epithets"
+         ],
+         "offensive":false
+      },
+      "hwi":{
+         "hw":"specific epithet"
+      },
+      "fl":"noun",
+      "def":[
+         {
+            "sseq":[
+               [
+                  [
+                     "sense",
+                     {
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}the Latin or latinized noun or adjective that follows the genus name in a taxonomic binomial"
+                           ]
+                        ]
+                     }
+                  ]
+               ]
+            ]
+         }
+      ],
+      "date":"1906",
+      "shortdef":[
+         "the Latin or latinized noun or adjective that follows the genus name in a taxonomic binomial"
+      ]
+   }
+]
+                  [
+                    "text",
+                    "{bc}to calculate or predict (some future event or condition) usually as a result of study and analysis of available pertinent data "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "The company is {wi}forecasting{/wi} reduced profits."
+                      }
+                    ]
+                  ]
+                ],
+                "sdsense": {
+                  "sd": "especially",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to predict (weather conditions) on the basis of correlated meteorological {dx_def}see {dxt|meteorology||1}{/dx_def} observations "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "They're {wi}forecasting{/wi} rain for this weekend."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to indicate as likely to occur "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Optimists are {wi}forecasting{/wi} an immediate upswing in business."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to serve as a forecast of {bc}{sx|presage||} "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "Such events may {wi}forecast{/wi} peace."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "vd": "intransitive verb",
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "{bc}to calculate the future "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "if it turns out as I {wi}forecasted{/wi}"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "uros": [
+      {
+        "ure": "fore*cast*able",
+        "prs": [
+          {
+            "mw": "ˈfȯr-ˌka-stə-bəl",
+            "sound": {
+              "audio": "foreca03",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ],
+        "fl": "adjective"
+      },
+      {
+        "ure": "fore*cast*er",
+        "fl": "noun"
+      }
+    ],
+    "syns": [
+      {
+        "pl": "synonyms",
+        "pt": [
+          [
+            "text",
+            "{sc}foretell{/sc} {sc}predict{/sc} {sc}forecast{/sc} {sc}prophesy{/sc} {sc}prognosticate{/sc} mean to tell beforehand. {sc}foretell{/sc} applies to the telling of the coming of a future event by any procedure or any source of information. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "seers {it}foretold{/it} the calamity"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}predict{/sc} commonly implies inference from facts or accepted laws of nature. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "astronomers {it}predicted{/it} an eclipse"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}forecast{/sc} adds the implication of anticipating eventualities and differs from {sc}predict{/sc} in being usually concerned with probabilities rather than certainties. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}forecast{/it} snow"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}prophesy{/sc} connotes inspired or mystic knowledge of the future especially as the fulfilling of divine threats or promises. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}prophesying{/it} a new messiah"
+              }
+            ]
+          ],
+          [
+            "text",
+            " {sc}prognosticate{/sc} is used less often than the other words; it may suggest learned or skilled interpretation, but more often it is simply a colorful substitute for {sc}predict{/sc} or {sc}prophesy{/sc}. "
+          ],
+          [
+            "vis",
+            [
+              {
+                "t": "{it}prognosticating{/it} the future"
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "15th century{ds|t|1|a|}",
+    "shortdef": [
+      "to calculate or predict (some future event or condition) usually as a result of study and analysis of available pertinent data; especially : to predict (weather conditions) on the basis of correlated meteorological observations",
+      "to indicate as likely to occur",
+      "to serve as a forecast of : presage"
+    ]
+  },
+  {
+    "meta": {
+      "id": "forecast:2",
+      "uuid": "2d82eeeb-7af9-44eb-9394-49737f07121e",
+      "sort": "062557000",
+      "src": "collegiate",
+      "section": "alpha",
+      "stems": [
+        "forecast",
+        "forecasts"
+      ],
+      "offensive": false
+    },
+    "hom": 2,
+    "hwi": {
+      "hw": "fore*cast",
+      "prs": [
+        {
+          "mw": "ˈfȯr-ˌkast",
+          "sound": {
+            "audio": "foreca04",
+            "ref": "c",
+            "stat": "1"
+          }
+        }
+      ]
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}a prophecy, estimate, or prediction of a future happening or condition"
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "sls": [
+                  "archaic"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}{a_link|foresight} of consequences and provision against them {bc}{sx|forethought||}"
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "date": "1527{ds||2||}",
+    "shortdef": [
+      "a prophecy, estimate, or prediction of a future happening or condition",
+      "foresight of consequences and provision against them : forethought"
+    ]
+  }
+]

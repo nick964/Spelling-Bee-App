@@ -1,0 +1,28 @@
+<div *ngIf="!word">
+  <div class="card" style="width: 18rem;">
+    <div class="card-body">
+      <h5 class="card-title">No Definition Selected</h5>
+      <p class="card-text">Please select 'Next Definition' to get started</p>
+    </div>
+  </div>
+</div>
+
+
+<div *ngIf="word">
+  <div class="card myCardStyle" style="width: 18rem;">
+    <div class="card-body">
+      <h5 class="card-title"><a (click)="goToLink(word.wordValue)"  [routerLink]="" >{{word.wordValue}}</a></h5>
+        <div *ngFor="let def of word.definitions">
+          <h6 class="card-subtitle mb-2 text-muted">{{def.partOfSpeech}}</h6>
+          <ul>
+            <div *ngFor="let val of def.shortDefinition">
+              <li><p class="card-text">{{val}}</p></li>
+            </div>
+          </ul>
+          <p *ngIf="def.example.length > 0">Example Sentence: {{def.example}}</p>
+        </div>
+      </div>
+  </div>
+</div>
+
+

@@ -1,0 +1,287 @@
+[
+   {
+      "meta":{
+         "id":"constrain",
+         "uuid":"2a328704-ac22-4aad-ae99-36f7f72c0754",
+         "sort":"035553900",
+         "src":"collegiate",
+         "section":"alpha",
+         "stems":[
+            "constrain",
+            "constrained",
+            "constrainedly",
+            "constraining",
+            "constrains"
+         ],
+         "offensive":false
+      },
+      "hwi":{
+         "hw":"con*strain",
+         "prs":[
+            {
+               "mw":"k\u0259n-\u02c8str\u0101n",
+               "sound":{
+                  "audio":"constr01",
+                  "ref":"c",
+                  "stat":"1"
+               }
+            }
+         ]
+      },
+      "fl":"verb",
+      "ins":[
+         {
+            "if":"con*strained"
+         },
+         {
+            "if":"con*strain*ing"
+         },
+         {
+            "if":"con*strains"
+         }
+      ],
+      "def":[
+         {
+            "vd":"transitive verb",
+            "sseq":[
+               [
+                  [
+                     "sense",
+                     {
+                        "sn":"1 a",
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}to force by imposed stricture, restriction, or limitation "
+                           ],
+                           [
+                              "vis",
+                              [
+                                 {
+                                    "t":"Teenagers often feel {wi}constrained{\/wi} by rules."
+                                 },
+                                 {
+                                    "t":"an artist {wi}constrained{\/wi} by a client\u0027s requirements"
+                                 }
+                              ]
+                           ]
+                        ]
+                     }
+                  ],
+                  [
+                     "sense",
+                     {
+                        "sn":"b",
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}to restrict the motion of (a mechanical body) to a particular mode"
+                           ]
+                        ]
+                     }
+                  ]
+               ],
+               [
+                  [
+                     "sense",
+                     {
+                        "sn":"2",
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}{sx|compress||}"
+                           ]
+                        ],
+                        "sdsense":{
+                           "sd":"also",
+                           "dt":[
+                              [
+                                 "text",
+                                 "{bc}to clasp tightly"
+                              ]
+                           ]
+                        }
+                     }
+                  ]
+               ],
+               [
+                  [
+                     "sense",
+                     {
+                        "sn":"3",
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}to secure by or as if by bonds {bc}{sx|confine||} "
+                           ],
+                           [
+                              "vis",
+                              [
+                                 {
+                                    "t":"{wi}constrained{\/wi} to a dungeon"
+                                 }
+                              ]
+                           ]
+                        ],
+                        "sdsense":{
+                           "sd":"broadly",
+                           "dt":[
+                              [
+                                 "text",
+                                 "{bc}{sx|limit||}"
+                              ]
+                           ]
+                        }
+                     }
+                  ]
+               ],
+               [
+                  [
+                     "sense",
+                     {
+                        "sn":"4",
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}to force or produce in an unnatural or strained manner "
+                           ],
+                           [
+                              "vis",
+                              [
+                                 {
+                                    "t":"a {wi}constrained{\/wi} smile"
+                                 }
+                              ]
+                           ]
+                        ]
+                     }
+                  ]
+               ],
+               [
+                  [
+                     "sense",
+                     {
+                        "sn":"5",
+                        "dt":[
+                           [
+                              "text",
+                              "{bc}to hold back by or as if by force "
+                           ],
+                           [
+                              "vis",
+                              [
+                                 {
+                                    "t":"\u0022 \u2026 {wi}constraining{\/wi} my mind not to wander from the task.\u0022",
+                                    "aq":{
+                                       "auth":"Charles Dickens"
+                                    }
+                                 }
+                              ]
+                           ]
+                        ]
+                     }
+                  ]
+               ]
+            ]
+         }
+      ],
+      "uros":[
+         {
+            "ure":"con*strained*ly",
+            "prs":[
+               {
+                  "mw":"k\u0259n-\u02c8str\u0101-n\u0259d-l\u0113",
+                  "sound":{
+                     "audio":"constr02",
+                     "ref":"c",
+                     "stat":"1"
+                  }
+               },
+               {
+                  "mw":"-\u02c8str\u0101nd-l\u0113"
+               }
+            ],
+            "fl":"adverb"
+         }
+      ],
+      "syns":[
+         {
+            "pl":"synonyms",
+            "pt":[
+               [
+                  "text",
+                  "{sc}force{\/sc} {sc}compel{\/sc} {sc}coerce{\/sc} {sc}constrain{\/sc} {sc}oblige{\/sc} mean to make someone or something yield. {sc}force{\/sc} is the general term and implies the overcoming of resistance by the exertion of strength, power, or duress. "
+               ],
+               [
+                  "vis",
+                  [
+                     {
+                        "t":"{it}forced{\/it} to flee for their lives"
+                     }
+                  ]
+               ],
+               [
+                  "text",
+                  " {sc}compel{\/sc} typically suggests overcoming of resistance or unwillingness by an irresistible force. "
+               ],
+               [
+                  "vis",
+                  [
+                     {
+                        "t":"{it}compelled{\/it} to admit my mistake"
+                     }
+                  ]
+               ],
+               [
+                  "text",
+                  " {sc}coerce{\/sc} suggests overcoming resistance or unwillingness by actual or threatened violence or pressure. "
+               ],
+               [
+                  "vis",
+                  [
+                     {
+                        "t":"{it}coerced{\/it} into signing over the rights"
+                     }
+                  ]
+               ],
+               [
+                  "text",
+                  " {sc}constrain{\/sc} suggests the effect of a force or circumstance that limits freedom of action or choice. "
+               ],
+               [
+                  "vis",
+                  [
+                     {
+                        "t":"{it}constrained{\/it} by conscience"
+                     }
+                  ]
+               ],
+               [
+                  "text",
+                  " {sc}oblige{\/sc} implies the constraint of necessity, law, or duty. "
+               ],
+               [
+                  "vis",
+                  [
+                     {
+                        "t":"felt {it}obliged{\/it} to go"
+                     }
+                  ]
+               ]
+            ]
+         }
+      ],
+      "et":[
+         [
+            "text",
+            "Middle English, from Anglo-French {it}constraindre{\/it}, from Latin {it}constringere{\/it} to constrict, constrain, from {it}com-{\/it} + {it}stringere{\/it} to draw tight {ma}{mat|strain|}{\/ma}"
+         ]
+      ],
+      "date":"14th century{ds||1|a|}",
+      "shortdef":[
+         "to force by imposed stricture, restriction, or limitation",
+         "to restrict the motion of (a mechanical body) to a particular mode",
+         "compress; also : to clasp tightly"
+      ]
+   }
+]

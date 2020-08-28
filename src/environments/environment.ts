@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+    firebase: {
+    apiKey: 'AIzaSyBvnFyj2stGzYmftsDyZBNsR5eyDq8i-e4',
+    authDomain: 'spelling-bee-ab085.firebaseapp.com',
+    databaseURL: 'https://spelling-bee-ab085.firebaseio.com',
+    projectId: 'spelling-bee-ab085',
+    storageBucket: 'spelling-bee-ab085.appspot.com',
+    messagingSenderId: '324015586761',
+    appId: '1:324015586761:web:6a2442d7cfe3082df1bc18',
+    measurementId: 'G-KLET4FXNV5'
+  }
 };
 
 /*
