@@ -1,25 +1,25 @@
 
+
+
+
     <h2>Round: {{roundKey}}</h2>
-
-
-
-  <app-word  [word]="currentWord" ></app-word>
-
-
-
+   <app-word  [word]="currentWord" ></app-word>
     <div *ngIf="usedWordList.length === 0">
       <p>Click 'Next Definition' to generate a word and start the round.</p>
     </div>
 
-  <br>
+    <br>
 
 
-      <div class="btn-group" role="group" aria-label="Next or Previous Group">
-        <button class="btn btn-primary"  *ngIf="this.usedWordList.length > 0" (click)="grabPrevious()">
-          Previous Definition
-        </button>
-        <button class="btn btn-primary" (click)="grabSpellingWord()">Next Definition</button>
-      </div>
+    <div class="btn-group" role="group" aria-label="Next or Previous Group">
+      <button class="btn btn-primary"  *ngIf="this.usedWordList.length > 0" (click)="grabPrevious()">
+        Previous Definition
+      </button>
+      <button class="btn btn-primary" (click)="grabSpellingWord()">Next Definition</button>
+    </div>
+
+
+
 
 
 

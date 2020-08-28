@@ -46,14 +46,18 @@ export class MyWordService {
       }
 
       private cleanExample(word: Word) {
-      if(word && word.definitions) {
+      if (word && word.definitions) {
         word.definitions.forEach(def => {
           if (def.example && def.example.length > 0) {
             def.example = def.example.replace('{wi}', '');
             def.example = def.example.replace('{\\/wi}', '');
+            def.example = def.example.replace('{/wi}', '');
+            def.example = def.example.replace('{it}', '');
+            def.example = def.example.replace('{/it}', '');
           }
         });
       }
+
 
       }
 }
