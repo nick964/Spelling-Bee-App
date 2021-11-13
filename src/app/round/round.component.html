@@ -2,11 +2,20 @@
 
 
 
-    <h2>Round: {{roundKey}}</h2>
-   <app-word  [word]="currentWord" ></app-word>
-    <div *ngIf="usedWordList.length === 0">
-      <p>Click 'Next Definition' to generate a word and start the round.</p>
+  <div class ="row">
+    <div class="col">
+      <h2>Round: {{roundKey}}</h2>
     </div>
+  </div>
+
+  <div class ="row">
+    <div class="col">
+     <app-word  [word]="currentWord" ></app-word>
+      <div *ngIf="usedWordList.length === 0">
+        <p>Click 'Next Definition' to generate a word and start the round.</p>
+      </div>
+    </div>
+  </div>
 
     <br>
 
@@ -17,9 +26,6 @@
       </button>
       <button class="btn btn-primary" (click)="grabSpellingWord()">Next Definition</button>
     </div>
-
-
-
 
 
 

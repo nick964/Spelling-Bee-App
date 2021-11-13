@@ -11,7 +11,7 @@
   <div *ngIf="word">
     <div class = "h-100 row align-items-center">
       <div class="col">
-        <div class="card myCardStyle" style="width: 30rem;">
+        <div class="card myCardStyle" >
           <div class="card-body">
             <h5 class="card-title"><a (click)="goToLink(word.wordValue)"  [routerLink]="" >{{word.wordValue}}</a></h5>
             <div *ngFor="let def of word.definitions">

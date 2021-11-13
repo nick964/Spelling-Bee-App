@@ -19,7 +19,7 @@ export class WordComponent implements OnInit {
 
 
   goToLink(word: string){
-    const val = 'https://www.google.com/search?q=' + word + 'definition';
+    const val = 'https://www.google.com/search?q=' + word + '%20definition';
     window.open(val, '_blank');
   }
 
